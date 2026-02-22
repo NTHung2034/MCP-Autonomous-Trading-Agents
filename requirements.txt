@@ -1,0 +1,10 @@
+openai-agents
+openai
+mcp
+python-dotenv
+pydantic
+polygon-api-client
+requests
+gradio
+pandas
+plotly
