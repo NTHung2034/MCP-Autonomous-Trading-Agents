@@ -1,8 +1,6 @@
-# Autonomous Traders (Lab 4)
+# Autonomous Traders
 
-Autonomous multi-agent equity trading simulation powered by MCP servers.
-
-This repository is a standalone, portfolio-ready extraction of the Lab 4 project. It includes:
+Autonomous multi-agent equity trading simulation powered by MCP servers. It includes:
 
 - a trader orchestration layer using the OpenAI Agents SDK
 - MCP servers for account operations, market data, and push notifications
